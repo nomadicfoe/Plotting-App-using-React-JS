@@ -5,5 +5,5 @@ change to the project directory
 'cd plotly-app'
 ### - Step 3 
 'yarn add plotly.js react-plotly.js'
-### - Step 3
+### - Step 4
 'yarn start'

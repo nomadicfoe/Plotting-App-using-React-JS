@@ -1,0 +1,58 @@
+[ {
+  "label": "Formatted Data",
+  "type": "dropdown",
+  "options": [
+    {
+      "label": "LAMMPS-DISP",
+      "value": "LAMMPS-DISP"
+    },
+    {
+      "label": "LAMMPS-XYZ",
+      "value": "LAMMPS-XYZ"
+    },
+    {
+      "label": "PARCAS",
+      "value": "PARCAS"
+    },
+    {
+      "label": "XYZ",
+      "value": "XYZ"
+    },
+    {
+      "label": "CASCADESDBLIKECOLS",
+      "value": "CASCADESDBLIKECOLS"
+    }
+  ]
+},
+    {
+      "label": "substrate",
+      "type": "text",
+      "info": "Enter type of metal"
+    },
+    {
+      "label": "latticeConstant",
+      "type": "number",
+      "info": "Enter type of metal"
+    },
+    {
+      "label": "recen",
+      "type": "text"
+    },
+    {
+      "label": "offset",
+      "type": "number"
+    },
+    {
+      "label": "potentialUsed",
+      "type": "text"
+    },
+    {
+      "label": "author",
+      "type": "text"
+    },
+    {
+      "label": "ncell",
+      "type": "number"
+    }
+  ]
+  
